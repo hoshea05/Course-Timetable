@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Course Timetable</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <h1>All Courses</h1>
+
+  <p>
+    <a href="/templates/my-schedule.html">View my schedule</a>
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Code</th>
+        <th>Title</th>
+        <th>Instructor</th>
+        <th>Time</th>
+        <th>Location</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      %_COURSE_ROWS_%
+    </tbody>
+  </table>
+</body>
+</html>
