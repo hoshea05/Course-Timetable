@@ -5,7 +5,7 @@
 - H.Li@dal.ca
 
 ## GitLab Link
-[GitLab Project](https://git.cs.dal.ca/)
+[GitLab Project](https://git.cs.dal.ca/haochenl/hackathon2)
 
 ## Description
 A simple timetable system built with Node.js core modules and MySQL.
